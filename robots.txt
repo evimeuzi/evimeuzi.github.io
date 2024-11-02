@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evimeuzi.github.io/Fjv/sitemap_index.txt
+Sitemap: https://evimeuzi.github.io/Nsv/sitemap_index.txt
+Sitemap: https://evimeuzi.github.io/Pny/sitemap_index.txt
+Sitemap: https://evimeuzi.github.io/oDX/sitemap_index.txt
